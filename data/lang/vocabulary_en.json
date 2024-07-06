@@ -1,0 +1,29 @@
+{
+  "agree_options": [
+    "Agree",
+    "Not agree"
+  ],
+  "terms_message": "Terms of Use abd Refund Policy. [Link to page]",
+  "hello_message": "Hello message",
+  "photo_message": "Send photo",
+  "result_message": "Here is your image:",
+  "payment_result": [
+    "Payment accepted!",
+    "Something goes wrong, please try again"
+  ],
+  "buttons": [
+    "Choose language",
+    "Menu",
+    "Send Photo",
+    "Yandex Maps",
+    "Pay",
+    "Table",
+    "Done",
+    "Home"
+  ],
+  "headers": [
+    "Choose language",
+    "Menu",
+    "Home"
+  ]
+}

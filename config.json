@@ -1,0 +1,22 @@
+{
+    "token": "6862239971:AAEqYcENLV2nFbwAU7XSC6RoDpZKA99W2v4",
+    "terms": "http://telegra.ph/Your-Link-Here",
+    "maps": "https://yandex.ru/maps/10747/podolsk/house/ulitsa_lenina_1/Z04YcwViQUYBQFtvfX93cnllYQ==/?ll=37.522836%2C55.363565&z=16",
+    "table": "https://docs.google.com/spreadsheets/d/1qYfEjWWK22b2jT7oZGwmb_KN92HaqMtnuQW03CpmadE/edit?gid=0#gid=0",
+    "ym_data": {
+        "client_id": "414788",
+        "client_secret": "test_XPqh7zyMq_V8fToLSFdNLdThrr1w4SY9bq3DO2ZJSf0",
+        "payload": {
+            "amount": {
+                "value": "2.00",
+                "currency": "RUB"
+            },
+            "confirmation": {
+                "type": "redirect",
+                "return_url": "https://t.me/awesome_cvbot"
+            },
+            "capture": true,
+            "description": "Заказ №1"
+        }
+    }
+}
